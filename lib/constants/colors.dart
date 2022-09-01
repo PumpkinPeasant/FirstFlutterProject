@@ -5,6 +5,7 @@ class AppColor{
   static final Color homePageBackground = HexColor("#1c1c1c");
   static final Color homePageBackgroundDark = HexColor("#000000");
   static final Color homePageBackgroundLight = HexColor("#120E02");
+  static final Color homePageGrayBackground = HexColor("#21201E");
   static final Color homePageGradientFirst = HexColor("#FE7817");
   static final Color homePageGradientSecond = HexColor("#FCC91C");
   static final Color homePageTitle = HexColor("#ffffff");
