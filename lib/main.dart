@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:new_flutter_test/screens/home.dart';
 
 void main() => runApp(FlutterApp());
-
 class FlutterApp extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
